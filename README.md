@@ -1,4 +1,3 @@
-# Basic-Firewall
 # Task 4 – Basic Firewall Configuration on Windows
 
 ## Objective:
